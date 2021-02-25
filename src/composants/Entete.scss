@@ -1,4 +1,11 @@
 .Entete {
-    background-color: #000000;
+    width: 100vw;
+    background-color: #333333;
     color: aliceblue;
+    .avatar {
+        justify-content: right;
+        text-align: right;
+        margin-right: 10px;
+        
+    }
 }
