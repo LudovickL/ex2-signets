@@ -7,6 +7,15 @@
     .couverture {
         margin: 0;
         height: 220px;
+        .deplacer {
+            background-color: black;
+            color: white;
+            border-radius: 50%;
+            opacity: 70%;
+            position: relative;
+            top: 40px;
+            left: 10px;
+        }
     }
     .info {
         height: 60px;

@@ -5,7 +5,7 @@ export default function Entete() {
   return (
     <header className="Entete">
       <div className="logo">Signets</div>
-      <div className="avatar">Camille Semaan <img src={avatar} alt="Camille Semaan" /></div>
+      <div className="avatar">Ludovick Lubérisse <img src={avatar} alt="Ludovick Lubérisse" /></div>
     </header>
   );
 }
