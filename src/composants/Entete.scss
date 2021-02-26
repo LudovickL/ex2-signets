@@ -1,11 +1,22 @@
 .Entete {
     width: 100vw;
     background-color: #333333;
-    color: aliceblue;
+    color: white;
     .avatar {
+        position: relative;
+        bottom: 20px;
         justify-content: right;
         text-align: right;
         margin-right: 10px;
-        
+        img {
+            border-radius: 50%;
+            position: inherit;
+            top: 10px;
+        }
+    }
+    .logo {
+        position: relative;
+        top: 20px;
+        margin-left: 10px;
     }
 }
